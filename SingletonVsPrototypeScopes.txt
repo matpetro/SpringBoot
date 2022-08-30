@@ -1,0 +1,3 @@
+Scopes
+Singleton: Gets one singular object throughout the entire application (default)
+Prototype: Gets a new object everytime the object is requested from the container

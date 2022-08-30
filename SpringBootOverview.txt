@@ -1,0 +1,24 @@
+- Spring Boot is a framework that allows implementation to be easier
+- Many included features
+- Inversion of Control: Allows Spring to take control and do the work for us
+- Dependency injection: Spring adds dependencies itself
+- Aspect oriented programming: Have methods that can be used in certain repetitive situations
+- Web Application development
+
+What is Spring?
+Java framework built to create an enterprise ready application.
+Many modules we can use within the framework.
+Makes it easy but includes a lot of configurations.
+
+What is SpringBoot?
+Extension of Spring that provides key benefits such as rapid
+application development. Also easy to manage dependencies and
+group them within the templates. It also includes auto configuration.
+There is also embedded servers within SpringBoot. Best for microservices
+within Java.
+        
+        Inversion of Control: Bad to create classes manually using things such as new ...
+                              Rather we should give control to Spring to create the class objects
+                              for us
+        Dependency Injection: All the objects are created and beans are stored in a container. 
+                              Spring has all the objects that can be directly used.

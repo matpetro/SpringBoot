@@ -1,0 +1,7 @@
+- Definition of a bean: the beans that need to be created (or classes)
+- Instantiation of the beans: bean creation by spring
+- Populate properties of beans: id, scopes, default values
+- Post initialization: Custom execution goes on, other interfaces are gone through
+- Bean is ready to serve all dependencies
+- Pre destroy a bean
+- bean is fully destroyed
